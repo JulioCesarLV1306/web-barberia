@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect('localhost', 'root', 'root', 'appsalon_mvc_php');
+$db = mysqli_connect('nj5rh9gto1v5n05t.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	', 'db1d7pw1njw7eaeg', 'ul80mh6jbkfxgoht', 'v4kcbbu7d2kjatdm');
 
 
 if (!$db) {
