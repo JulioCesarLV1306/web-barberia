@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'codigoconjuan/app-salon_php_mvc_js_sass',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'e0e85d9c9299dfeffe090b6ddd9b88831874bf40',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'codigoconjuan/app-salon_php_mvc_js_sass' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'e0e85d9c9299dfeffe090b6ddd9b88831874bf40',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
