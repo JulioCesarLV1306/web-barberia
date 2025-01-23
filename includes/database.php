@@ -1,6 +1,9 @@
 <?php
 
-$db = mysqli_connect('nj5rh9gto1v5n05t.cbetxkdyhwsb.us-east-1.rds.amazonaws.com	', 'db1d7pw1njw7eaeg', 'ul80mh6jbkfxgoht', 'v4kcbbu7d2kjatdm');
+$db = mysqli_connect('gtizpe105piw2gfq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+ 'na7g0o2zjyl36kwl',
+  'ul80mh6jbkfxgoht',
+   'a6e1lef9kta8vo3l');
 
 
 if (!$db) {
